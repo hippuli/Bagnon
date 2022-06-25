@@ -1,0 +1,8 @@
+package-as: Bagnon
+
+move-folders:
+  Bagnon/BagBrother: BagBrother
+  Bagnon/Bagnon: Bagnon
+  Bagnon/Bagnon_Config: Bagnon_Config
+  Bagnon/Bagnon_GuildBank: Bagnon_GuildBank
+  Bagnon/Bagnon_VoidStorage: Bagnon_VoidStorage
